@@ -9,7 +9,7 @@ function CommonTableHoc() {
   return {
     name: 'commonTable',
     props: {
-      ...ElTableColunm.$props
+      ...ElTableColunm.props
     },
     computed: {
       attrs() {

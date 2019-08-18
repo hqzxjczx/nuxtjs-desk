@@ -27,6 +27,11 @@
     "postcss-pxtorem": "^4.0.1",
     "postcss-responsive-type": "^1.0.0",
     "postcss-url": "^8.0.0",
-    "prettier": "^1.16.4"
+    "prettier": "^1.16.4",
+    "pug": "^2.0.4",
+    "ramda": "^0.26.1",
+    "vue-compose": "^0.7.3",
+    "vue-hoc": "^0.4.7",
+    "vuex-compose": "^1.2.0"
   }
 }
